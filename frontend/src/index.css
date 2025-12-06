@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.sidebar .active {
+  background-color: "red" !important;
+}

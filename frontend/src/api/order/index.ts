@@ -1,0 +1,12 @@
+export const orders = "/order/restro";
+export const getOrderDetails = "/order";
+export const orderByTableId = "/order/table";
+export const acceptOrder = "/order";
+export const receptionistOrder = "/order/type";
+export const quickOrder = "/takeaway-order";
+export const acceptedTableOrder = "/order/itemStatus";
+export const settleBill = "/billing/settle";
+export const orderHistory = "/order/order-history";
+export const tableByStatus = "/table/find-by-status";
+export const changeTable = "/order/table-change";
+export const getPhoneNumber = "/order/find-phone";
