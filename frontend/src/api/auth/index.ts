@@ -1,0 +1,9 @@
+export const signin = "/auth/signin";
+export const userInfo = "/auth/user-info";
+export const updatePassword = "/auth/forgot-password";
+export const updatePhoto = "/restaurant/update-photo";
+export const updateCoverPic = '/restaurant/cover-photo';
+export const updateUserInfoApi = "/restaurant/update-info";
+export const updatePasswordApi = "/auth/update-password";
+export const forgetPassword = "/auth/forget-password";
+export const resetPassword = "/auth/reset-password";    

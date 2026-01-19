@@ -1,0 +1,19 @@
+.navbar {
+  color: #dde2ff;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 15px 10px 15px 25px;
+  transition: width 0.3s ease;
+}
+
+.navbar:hover {
+  background-color: #d1642d;
+}
+
+.iconContainer {
+  min-width: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40;
+}

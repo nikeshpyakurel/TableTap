@@ -1,0 +1,9 @@
+.list:hover {
+  background-color: #ff9987;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.mantine-Tabs-panel {
+  display: none;
+}

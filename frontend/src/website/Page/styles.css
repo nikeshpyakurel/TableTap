@@ -1,0 +1,22 @@
+/* Add these styles to your CSS file */
+
+/* General scrolling behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  scroll-behavior: smooth;
+}
+/* Container for the how it works section */
+.how-it-works-container {
+  position: relative;
+  min-height: 150vh; /* Give enough height for scrolling triggers */
+  margin-bottom: 100px;
+}
+
+/* Ensure that content below doesn't overlap with the sticky section */
+.how-it-works-container + * {
+  position: relative;
+  z-index: 1;
+}
