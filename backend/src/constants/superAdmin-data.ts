@@ -1,7 +1,7 @@
 export const SuperAdminInfo = {
     email: "digitalpravidhi2@gmail.com",
     password: "password",
-    name: "Digital Pravidhi",
+    name: "TableTap Admin",
     address: "New Baneshwor",
-    photo: "https://www.digitalpravidhi.com/wp-content/uploads/2023/09/cropped-DPLogo.jpg"
+    photo: "https://nikeshpyakurel.com.np/static/media/nikesh.7992d103d1dbe367c9f0.png"
 };

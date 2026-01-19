@@ -31,7 +31,7 @@ const OpenRoutes: RouteObject = {
     },
     {
       path: "/",
-      element: <ClientLayout />,
+      element: <App />,
       children: [
         {
           path: "/menu",
